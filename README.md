@@ -1,33 +1,34 @@
-# React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+<h1 align="center">Welcome to CrypTracker! 📈</h1>
+Stay on top of the cryptocurrency market with CrypTracker, your comprehensive crypto tracking companion. Powered by real-time data and interactive visualizations, CrypTracker offers detailed insights into the world of digital currencies.
+<hr/>
 
-This repository contains final code for Crypto Screener Application in ReactJS. <br />
+![Screenshot 2024-06-27 132754](https://github.com/Munis2003/CrypTracker/assets/115029476/33468ecf-5701-4fa3-a044-3b2ba075467d)
 
-For Demo and Final Code checkout following link👇: <br />
-[Crypto Screener Application in ReactJS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css) <br />
 
-Here are the starter code files👇: <br />
-https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application <br />
+<hr/>
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-[Build Crypto Screener Application in React JS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css)
-[![YouTube Video Views](https://img.shields.io/youtube/views/JPlVb3t6kx8?style=social)](https://youtu.be/cT160dOzpGY)<br />
+# Features 
 
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
+- Real-Time Data: Get up-to-the-minute information on cryptocurrency prices and market trends.
+- Detailed Views: Dive deep into each cryptocurrency with comprehensive statistics and historical data.
+- Interactive Charts: Visualize price movements and market patterns with dynamic, user-friendly charts.
+- Search Functionality: Quickly find specific cryptocurrencies among the vast array of digital assets.
+- Pagination: Easily navigate through the extensive list of cryptocurrencies.
+- Responsive Design: Enjoy a seamless experience across desktop and mobile devices.
+<hr/>
 
-### Images of The Crypto Screener Website:
+# Technology
 
-![Crypto](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto.png)
-![Crypto-CryptoDetails](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails.png)
-![Trending](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending.png)
-![Saved](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Saved.png)
-![Trending-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Trending-Mobile.png)
-![Crypto-CryptoDetails-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-CryptoDetails-Mobile.png)
-![Crypto-Mobile](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto-Mobile.png)
+CrypTracker is built using the following technologies:
+
+- ReactJs
+- Cryptocurrency API (e.g., CoinGecko or CoinMarketCap)
+- Context API for state management
+- Axios for API requests
+- Responsive CSS framework (Tailwind CSS)
+
+<hr/>
 
 ### Resources Used in This Project
 
@@ -39,6 +40,46 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 - [Tailwind css](https://tailwindcss.com/) <br />
 - [recharts](https://recharts.org/en-US/) <br />
+
+
+# How to Run the Application on Your System
+
+## Step 1: Download and Extract the Code
+
+Firstly, download the entire application code and extract the ZIP file to a folder on your local system.
+
+## Step 2: Obtain the Coingecko API Key
+
+Before starting the application, you will need to obtain the coingecko API key.
+
+### ▶️ Get coingecko API Key 
+
+- Go to https://www.coingecko.com/en/api and click on Create Demo Account.
+- Navigate to the API section and generate a new API key.
+- Copy the API key for later use.
+
+## Step 3: Run the Application
+
+Open your code editor (such as VS Code) and navigate to the project directory. Then, open a terminal and run the following command:
+
+```bash
+npm start 
+```
+This will start the application. Open a web browser and navigate to http://localhost:3000 to access the website.
+
+Note: Ensure that you have carefully added the coingecko api key configuration to your context folder.
+
+<hr/>
+
+# Demo 
+https://github.com/Munis2003/CrypTracker/assets/115029476/bf6742db-6610-40e4-a63a-1f5d0893d85b
+
+### Credits 
+
+[Build Crypto Screener Application in React JS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css)
+
+
+
 
 
 
